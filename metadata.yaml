@@ -1,0 +1,27 @@
+_repo: The-Altar-of-Freedom_63490
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Rinehart, Mary Roberts
+    birthdate: 1876
+    deathdate: 1958
+    gutenberg_agent_id: '183'
+    url: http://www.gutenberg.org/2009/agents/183
+    wikipedia: https://en.wikipedia.org/wiki/Mary_Roberts_Rinehart
+description: ''
+gutenberg_issued: '2020-10-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63490'
+  lccn: '17014707'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Draft'
+- !lcc 'UA'
+- !lcsh 'United States -- Defenses'
+- GITenberg
+title: The Altar of Freedom
+url: http://www.gutenberg.org/ebooks/63490
